@@ -1,0 +1,21 @@
+{
+    "name": "sams-sunset",
+    "displayName": "Sams Sunset",
+    "description": "Sams custom theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sams Sunset",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sams Sunset-color-theme.json"
+            }
+        ]
+    }
+}
